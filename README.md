@@ -9,7 +9,7 @@ _**Dataset**_
 
 The Project’s dataset contained 10130 records each record at different time and 18 features where each one represents a sensor reading such as CO2 and temperature.
 
-**_Project Workflow _**
+_**Project Workflow**_
 1.	Exploratory Data Analysis (EDA): Exploring the dataset, the relationship between the features and the target, and more.
 
 2.	Data Preprocessing: Which involves cleaning the data and preparing it for the modeling stage such as scaling the data and dropping unnecessary columns. 
@@ -26,6 +26,7 @@ _**Tech Stack**_
 
 _**How to Use**_
 1.	Room_Occupancy_Count_Prediction.ipynb Notebook:
+   
 -The notebook contains all steps from data preprocessing all the way to evaluating the results.
 -To run each notebook, open the it in Google Colab:
   - Click on the notebook file (Room_Occupancy_Count_Prediction.ipynb).

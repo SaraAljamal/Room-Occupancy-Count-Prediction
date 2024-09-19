@@ -26,16 +26,14 @@ _**Tech Stack**_
 
 _**How to Use**_
 1.	Room_Occupancy_Count_Prediction.ipynb Notebook:
-   
--The notebook contains all steps from data preprocessing all the way to evaluating the results.
-
--To run each notebook, open the it in Google Colab:
-  - Click on the notebook file (Room_Occupancy_Count_Prediction.ipynb).
-  - Choose "Open in Colab" from the GitHub file preview.
-  - You can run the cells sequentially to see the steps and results.
+   - The notebook contains all steps from data preprocessing all the way to evaluating the results.
+   - To run each notebook, open the it in Google Colab:
+        - Click on the notebook file (Room_Occupancy_Count_Prediction.ipynb).
+        - Choose "Open in Colab" from the GitHub file preview.
+        - You can run the cells sequentially to see the steps and results.
 
 2.	Room Occupancy Prediction Report:
 - The report (Room Occupancy Prediction Report.docx) includes: 
-  1. A comprehensive review of all EDA and data preprocessing steps applied.
-  2. A comparison between models and evaluation for the performance of each.
+      - A comprehensive review of all EDA and data preprocessing steps applied.
+      - A comparison between models and evaluation for the performance of each.
 - You can view or download the report directly from the repository to understand the project background and conclusions.

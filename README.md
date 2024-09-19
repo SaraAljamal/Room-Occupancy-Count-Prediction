@@ -28,6 +28,7 @@ _**How to Use**_
 1.	Room_Occupancy_Count_Prediction.ipynb Notebook:
    
 -The notebook contains all steps from data preprocessing all the way to evaluating the results.
+
 -To run each notebook, open the it in Google Colab:
   - Click on the notebook file (Room_Occupancy_Count_Prediction.ipynb).
   - Choose "Open in Colab" from the GitHub file preview.
